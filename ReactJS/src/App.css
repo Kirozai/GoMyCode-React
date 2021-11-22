@@ -1,0 +1,39 @@
+@font-face
+{
+    font-family: squids;
+    src: url(/src/Game\ Of\ Squids.otf);
+}
+#success_message{ display: none;}
+legend {
+  text-align: center;
+}
+.control-label {
+  color: #121212;
+}
+.gmc, html {
+  background-color: #121212;
+  margin-top: 1.5vh;
+}
+legend {
+  font-family: squids;
+  padding-bottom: 1.25rem !important;
+}
+.form-control {
+  color: rgb(153, 153, 153) !important;
+  border: 1px solid #121212 !important;
+}
+.well {
+  padding: 10px !important;
+}
+.btn-dark {
+  color: #fff !important;
+  background-color: #121212 !important;
+  border-color: #121212  !important;
+  display: block !important;
+  margin: 0 auto !important;
+}
+.input-group-addon {
+  border-top: 1px solid #121212 !important;
+  border-left: 1px solid #121212 !important;
+  border-bottom: 1px solid #121212 !important;
+}
