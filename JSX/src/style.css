@@ -1,0 +1,18 @@
+.title {
+    font-size: 2rem;
+    text-align: center;
+}
+.red {
+    color: white;
+}
+img, video{
+    display: block;
+    margin: 1rem auto;
+    width: 40vw;
+    height: 40vh;
+    border: 2px solid white;
+    border-radius: 12px;
+}
+html {
+    background-color: #121212;
+}
